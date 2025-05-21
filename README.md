@@ -8,9 +8,6 @@ This folder answers that question — with code, speed tests, memory checks, and
 📦 Structure
 The Why Use Numpy/ folder contains the core arguments for why NumPy should be in every data scientist’s toolkit.
 
-bash
-Copy
-Edit
 📁 Why Use Numpy/
 ├── 01_SpeedTests.ipynb       # ⏱️ NumPy vs. Python in a race
 ├── 02_Creating_Arrays.ipynb  # 🛠️ All the ways to make arrays
@@ -61,3 +58,4 @@ arr2 = np.array(list2)
 res = arr1 * arr2  # One line. Super fast.
 🧠 Clean. 💨 Fast. ⚡ Powerful.
 
+<p align="center"> <strong>🎯 TL;DR:</strong> NumPy is where Python gets serious about numbers. <br/> This folder proves it. Let's go. 💥 </p>
