@@ -9,13 +9,12 @@ This folder answers that question — with code, speed tests, memory checks, and
 The Why Use Numpy/ folder contains the core arguments for why NumPy should be in every data scientist’s toolkit.
 
 📁 Why Use Numpy/
-├── 01_SpeedTests.ipynb       # ⏱️ NumPy vs. Python in a race
-├── 02_Creating_Arrays.ipynb  # 🛠️ All the ways to make arrays
-├── 03_MemoryEfficiency.ipynb # 💾 NumPy's RAM-saving powers
-├── 04_Vectorization.ipynb    # ⚡ Operations without loops
-├── Exersice.ipynb            # 🧠 Quick drills to test your skills
-└── Summary.txt               # 📜 TL;DR of everything above
-💡 PS: There are more folders coming up — Indexing, Broadcasting, Linear Algebra, and more. This is just Phase 1.
+├── 📄 01_SpeedTests.ipynb       → ⏱️ Python Lists vs NumPy Arrays: The Ultimate Speed Showdown
+├── 📄 02_Creating_Arrays.ipynb  → 🛠️ Learn to build arrays: zeros, ones, arange, linspace, random
+├── 📄 03_MemoryEfficiency.ipynb → 💾 Comparing RAM usage: NumPy vs List (spoiler: NumPy wins)
+├── 📄 04_Vectorization.ipynb    → ⚡ Eliminate loops using blazing-fast vectorized operations
+├── 📄 Exersice.ipynb            → 🧠 Hands-on mini challenges to sharpen your NumPy chops
+└── 📄 Summary.txt               → 📜 TL;DR-style notes of everything above for quick revision
 
 🧠 What You’ll Learn Here
 Why NumPy is insanely fast
